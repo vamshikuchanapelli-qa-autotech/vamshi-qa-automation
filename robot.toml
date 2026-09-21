@@ -1,0 +1,3 @@
+paths = ["tests"]
+python-path = ["modules"]
+output-dir = "results"
